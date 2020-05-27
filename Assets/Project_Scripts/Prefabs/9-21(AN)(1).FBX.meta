@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 914e46cded08fa144aa7a01451a18258
+timeCreated: 1537525851
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DX
+    100004: KEHLWALL
+    100006: KEHLWALL001
+    100008: KEHLWALL002
+    100010: KEHLWALL003
+    100012: KEHLWALL004
+    100014: KEHLWALL005
+    400000: //RootNode
+    400002: DX
+    400004: KEHLWALL
+    400006: KEHLWALL001
+    400008: KEHLWALL002
+    400010: KEHLWALL003
+    400012: KEHLWALL004
+    400014: KEHLWALL005
+    2300000: DX
+    2300002: KEHLWALL
+    2300004: KEHLWALL001
+    2300006: KEHLWALL002
+    2300008: KEHLWALL003
+    2300010: KEHLWALL004
+    2300012: KEHLWALL005
+    3300000: DX
+    3300002: KEHLWALL
+    3300004: KEHLWALL001
+    3300006: KEHLWALL002
+    3300008: KEHLWALL003
+    3300010: KEHLWALL004
+    3300012: KEHLWALL005
+    4300000: DX
+    4300002: KEHLWALL
+    4300004: KEHLWALL001
+    4300006: KEHLWALL002
+    4300008: KEHLWALL003
+    4300010: KEHLWALL004
+    4300012: KEHLWALL005
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLANT
+    second: {fileID: 2100000, guid: f93336401be33644dab4aec20f431024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLBRIK
+    second: {fileID: 2100000, guid: 417ded3959adf8c4c8181fb77e3ef029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLCLAR
+    second: {fileID: 2100000, guid: 1fb3636cab095ff43b71f9479000a247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLDB
+    second: {fileID: 2100000, guid: 04fa42d26bf69674dbac6fb3baeec69f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLFLOO
+    second: {fileID: 2100000, guid: 4244c1866843c1d459517968318f6804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLFORN
+    second: {fileID: 2100000, guid: 09453657d76200344a27905eca489a58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLGLAS
+    second: {fileID: 2100000, guid: 45d1339f1f60d194c96ca8ee1ac29b61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLLOSA
+    second: {fileID: 2100000, guid: 500b49aecba63df499544916dfe7d8a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLMETL
+    second: {fileID: 2100000, guid: d518fdee11068b1418e910deb48d194c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLROOF
+    second: {fileID: 2100000, guid: fc62b2342db8c2a44b844d9e7d4b273c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLTERR
+    second: {fileID: 2100000, guid: 6bc413b3bba770e4aac5caab481f1c3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KEHLWHIT
+    second: {fileID: 2100000, guid: d86ce73e6ef3a3a4581dda1b1d06d99f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1dd9f0fd8e3a49e4eb2d24bf6b8195a4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

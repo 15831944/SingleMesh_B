@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1801772718781484}
+  m_IsPrefabParent: 1
+--- !u!1 &1801772718781484
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4580243718784696}
+  - component: {fileID: 114238294737976896}
+  m_Layer: 0
+  m_Name: StyleConfig
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4580243718784696
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1801772718781484}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 870.13916, y: 717.35547, z: -11.25}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114238294737976896
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1801772718781484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58398c0420aab484694f66e2578f4055, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AreaEffector: {fileID: 1987433770520308, guid: d5f6417126607654ca9ea95f57f50de8,
+    type: 2}
+  ElementEffector: {fileID: 1753228987106596, guid: 4e52e28b1b960f24ca9bc4ec3aaffecd,
+    type: 2}
+  AreaLabel: {fileID: 1383935989633514, guid: d689cf8c369ddb0429a0bd16ce9d258a, type: 2}
+  ElementLabel: {fileID: 1342839055170090, guid: 7a20db72da814e64a87b58eb2b165bbe,
+    type: 2}
+  WanderCamera: {fileID: 1013962951837978, guid: 67e3331b2f0a95346b0e0959dc30acbb,
+    type: 2}
+  PointNavCamera: {fileID: 1805907011574172, guid: bb732067ee9a81a41b0d09fe2cb02082,
+    type: 2}
+  LocationCamera: {fileID: 1127712242796364, guid: 429bdf36c358e2441a250c862fcea0ec,
+    type: 2}
+  LocationIcon: {fileID: 1596936269548218, guid: 5024e61c984c39d4faa8658e4a6b6095,
+    type: 2}
+  LocationHisIcon: {fileID: 1164158518207050, guid: 151c3d7f128f8dd4d8890cdc21d513ea,
+    type: 2}
+  LocationHisEndIcon: {fileID: 1382314521007184, guid: 75bcf344e2c7cf148bd4306dac479f39,
+    type: 2}

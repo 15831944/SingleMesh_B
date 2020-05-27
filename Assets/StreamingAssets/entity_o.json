@@ -1,0 +1,295 @@
+{
+	"entity": [
+{
+		"id": "RY00",
+		"t_eCode": "LD",
+		"name": "领导1",
+		"a_type": 0,
+		"state": 0,
+		"s_data":{
+		},
+		"exist": 1,
+		"display": 0,
+		"position": {
+			"lineId": "2003",
+			"content": [],
+			"distance": 320
+		},
+		"data": [{
+			"key": "姓名",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "张三",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "职位",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "领导",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "入井时间",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "2020-05-06 19:26:10",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}]
+	},
+{
+		"id": "RY01",
+		"t_eCode": "LD",
+		"name": "领导1",
+		"a_type": 0,
+		"state": 0,
+		"s_data":{
+		},
+		"exist": 0,
+		"display": 0,
+		"position": {
+			"lineId": "2003",
+			"content": [],
+			"distance": 40
+		},
+		"data": [{
+			"key": "姓名",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "张三",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "职位",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "领导",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "入井时间",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "2020-05-06 19:26:10",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}]
+	},
+{
+		"id": "RY02",
+		"t_eCode": "GR",
+		"name": "工人",
+		"a_type": 0,
+		"state": 0,
+		"exist": 0,
+		"display": 0,
+		"position": {
+			"lineId": "2003",
+			"content": [],
+			"distance": 60
+		},
+		"data": [{
+			"key": "姓名",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "李四",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "职位",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "工人",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "入井时长",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "2小时",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}]
+	},{
+		"id": "RY03",
+		"t_eCode": "FK",
+		"name": "访客",
+		"a_type": 0,
+		"state": 0,
+		"s_data":{},
+		"exist": 0,
+		"display": 0,
+		"position": {
+			"lineId": "2003",
+			"content": [],
+			"distance": 110
+		},
+		"data": [{
+			"key": "姓名",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "王五",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "职位",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "访客",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "入井时长",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "2小时",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}]
+	},{
+		"id": "RY04",
+		"t_eCode": "XR",
+		"name": "闲人",
+		"a_type": 0,
+		"state": 0,
+		"s_data":{},
+		"exist": 0,
+		"display": 0,
+		"position": {
+			"lineId": "2003",
+			"content": [],
+			"distance": 220
+		},
+		"data": [{
+			"key": "姓名",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "赵六",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "职位",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "闲人",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "入井时长",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "2小时",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}]
+	},{
+		"id": "CL01",
+		"t_eCode": "CL",
+		"name": "车辆",
+		"a_type": 0,
+		"state": 0,
+		"s_data":{},
+		"exist": 0,
+		"display": 0,
+		"position": {
+			"lineId": "2003",
+			"content": [],
+			"distance": 160
+		},
+		"data": [{
+			"key": "姓名",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "张三",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "职位",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "领导",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "入井时长",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "2小时",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}]
+	},
+{
+		"id": "SB01",
+		"t_eCode": "SB",
+		"name": "设备",
+		"a_type": 0,
+		"state": 0,
+		"exist": 0,
+		"display": 0,
+		"position": {
+			"lineId": "5003",
+			"content": [],
+			"distance": 80
+		},
+		"data": [{
+			"key": "名称",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "设备1",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "职位",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "设备",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "入井时长",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "2小时",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}]
+	},
+{
+		"id": "SB2",
+		"t_eCode": "SB",
+		"name": "设备2",
+		"a_type": 0,
+		"state": 0,
+		"exist": 0,
+		"display": 0,
+		"position": {
+			"lineId": "5003",
+			"content": [],
+			"distance": 120
+		},
+		"data": [{
+			"key": "名称",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "设备2",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "职位",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "设备",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}, {
+			"key": "入井时长",
+			"keyfontsize": 2,
+			"keyfontcolor": "FFFFFFF",
+			"value": "2小时",
+			"valuefontsize": 2,
+			"valuefontcolor": "FFFFFF"
+		}]
+	}]
+}
